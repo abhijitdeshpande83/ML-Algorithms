@@ -1,0 +1,1 @@
+It will run in any .ipynb platform. It was made in Google Colab (https://colab.research.google.com/)

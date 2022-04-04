@@ -1,0 +1,1 @@
+It will run in any .ipynb platform. (like jupyter notebook/jupyter lab etc.)For  file Mukticlass_Logistic_Regression and ANN Problem 3, import the file names mnist_train.csv for training data and mnist_test.csv for testing data  to run the code.
