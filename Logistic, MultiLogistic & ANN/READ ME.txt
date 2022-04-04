@@ -1,1 +1,1 @@
-Files were made in JupyterLab. They can be run in any environment that supports .ipynb files.The .csv files are in the zip. In Q2 they need to read by inputting their file locations into the pd.read_csv('location/mnist_train.csv') and pd.read_csv('location/ 2014_Financial_Data.csv’) lines of code respectively for data.
+It will run in any .ipynb platform. (like jupyter notebook/jupyter lab etc.)For  file Mukticlass_Logistic_Regression and ANN Problem 3, import the file names mnist_train.csv for training data and mnist_test.csv for testing data  to run the code.
