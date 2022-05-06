@@ -1,5 +1,5 @@
 # ML-Algorithms
-- [x] KNN
+:white_check_mark: KNN
 - [x] KMeans
 - [x] Kernel Density Function
 - [x] PCA
